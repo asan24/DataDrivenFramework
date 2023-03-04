@@ -1,0 +1,4 @@
+2023-02-24 21:03:18,824 INFO c.w.b.TestBase [main] Config File loaded!!!
+2023-02-24 21:03:25,263 INFO c.w.t.LoginTest [main] Test Passed
+2023-02-24 21:03:48,819 INFO c.w.b.TestBase [main] Config File loaded!!!
+2023-02-24 21:03:55,465 INFO c.w.t.LoginTest [main] Test Passed

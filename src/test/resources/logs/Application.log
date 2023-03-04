@@ -1,0 +1,6 @@
+2023-02-26 13:56:20,406 INFO c.w.b.TestBase [main] Config File loaded!!!
+2023-02-26 13:56:20,408 INFO c.w.b.TestBase [main] Or file loaded!!!
+2023-02-26 13:56:26,237 INFO c.w.b.TestBase [main] WebPage opened!!!
+2023-02-26 13:56:26,279 INFO c.w.b.TestBase [main] Inside Login Test
+2023-02-26 13:56:26,851 INFO c.w.b.TestBase [main] Login successfully executed
+2023-02-26 13:56:28,156 INFO c.w.b.TestBase [main] Customer added
